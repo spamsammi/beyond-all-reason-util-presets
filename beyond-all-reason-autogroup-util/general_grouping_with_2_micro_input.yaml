@@ -1,0 +1,167 @@
+"1":
+  description: Free (Micro 1)
+"2":
+  description: Free (Micro 2)
+"3":
+  description: Main Army
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    # -----------------Bots-----------------
+    - Tick
+    - Pawn
+    - Rocketeer
+    - Crossbow
+    - Mace
+    - Centurion
+    - Sprinter
+    - Webber
+    - Platypus
+    - Hound
+    - Welder
+    - Recluse
+    - Archangel
+    - Gunslinger
+    - Sharpshooter
+    - Fatboy
+    - Marauder
+    - Vanguard
+    - Razorback
+    - Titan
+    # -----------------Vechicles-----------------
+    - Rover
+    - Blitz
+    - Shellshocker
+    - Whistler
+    - Pincer
+    - Stout
+    - Janus
+    - Gremlin
+    - Mauser
+    - Jaguar
+    - Shredder
+    - Turtle
+    - Ambassador
+    - Bull
+    - Starlight
+    - Thor
+    # -----------------Aircraft-----------------
+    - Banshee
+    - Sabre
+    - Roughneck
+    - Hornet
+    # -----------------Ships-----------------
+    - Skater
+    - Dolphin
+    - Ellysaw
+    - Eel
+    - Corsair
+    - Maelstrom
+    - Barracuda
+    - Dragonslayer
+    - Paladin
+    - Serpent
+    - Longbow
+    - Dreadnought
+    - Epoch
+    # -----------------Hovercraft-----------------
+    - Seeker
+    - Possum
+    - Sweeper
+    - Crocodile
+    - Lunkhead
+    # -----------------Optional-----------------
+    # -- Bots
+    - Smuggler
+    - Compass
+    - Ghost
+    - armfark # Butler
+    - Umbrella
+    # -- Vechicles
+    - Umbra
+    - Prophet
+    - armconsul # Consul
+    # -- Ships
+    - armmls # Voyager
+    - Bermuda
+    - armantiship # Haven
+"4":
+  description: Resurrection Units
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    - Lazarus # bot
+    - Grim Reaper # sub
+
+"5":
+  description: AA (Fighters + Air Defense)
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    # -----------------Aircraft-----------------
+    - Falcon
+    - armsfig # Cyclone
+    - Highwind
+    # -----------------Defenses-----------------
+    - Chainsaw
+    - Mercury
+
+"6":
+  description: Bombers
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    # -----------------Aircraft-----------------
+    - Stormbringer
+    - Tsunami
+    - Blizzard
+    - Cormorant
+    - Stiletto
+    - Liche
+
+"7":
+  description: Land Factories
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    - armlab # Bot Lab
+    - armvp # Vehicle Plant
+    - armalab # Advanced Bot Lab
+    - armavp # Advanced Vehicle Plant
+    - armshltx # Experimental Gantry
+    - armshltxuw # Experimental Gantry
+
+"8":
+  description: Sea Factories
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    - armsy # Shipyard
+    - armfhp # Naval Hovercraft Platform
+    - armhp # Hovercraft Platform
+    - armamsub # Amphibious Complex
+    - armasy # Advanced Shipyard
+
+"9":
+  description: (Long Range) Artilary Defense + Anti-Nuke System
+  units:
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    - Gauntlet
+    - Gorgon
+    - Rattlesnake
+    - Basilica
+    - Ragnarok
+    - Citadel
+
+"0":
+  description: Nuclear ICBM Launcher
+  units:
+    - Armageddon # Armada
