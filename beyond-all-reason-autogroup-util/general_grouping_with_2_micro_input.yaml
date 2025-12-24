@@ -86,6 +86,88 @@
     - armmls # Voyager
     - Bermuda
     - armantiship # Haven
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    # -----------------Bots-----------------
+    - Grunt
+    - Aggravator
+    - Trasher
+    - Thug
+    - Fiend
+    - coramph # Duck
+    - Sheldon
+    - Termite
+    - Sumo
+    - Arbiter
+    - Manticore
+    - Commando
+    - Mammoth
+    - Shiva
+    - Karganeth
+    - Catapult
+    - Demon
+    - Behemoth
+    - Juggernaut
+    # -----------------Vechicles-----------------
+    - Rascal
+    - Incisor
+    - Lasher
+    - Muskrat
+    - Wolverine
+    - Garpike
+    - Pounder
+    - Brute
+    - Salamander
+    - Quaker
+    - Fury
+    - Tiger
+    - Negotiator
+    - Banisher
+    - Poison Arrow
+    - Tzar
+    - Tremor
+    # -----------------Aircraft-----------------
+    - Shuriken
+    - Cutlass
+    - Monsoon
+    - Wasp
+    - Dragon
+    # -----------------Ships-----------------
+    - Supporter
+    - Herring
+    - Riptide
+    - Orca
+    - Oppressor
+    - Brimstone
+    - Predator
+    - Arrow Storm
+    - Buccaneer
+    - Kraken
+    - Messenger
+    - Despot
+    - Black Hydra
+    # -----------------Hovercraft-----------------
+    - Goon
+    - Mangonel
+    - Birdeater
+    - Cayman
+    - Halberd
+    - Cataphract
+    # -----------------Optional-----------------
+    # -- Bots
+    - Deceiver
+    - Augur
+    - Spectre
+    - corfast # Twitcher
+    # -- Vechicles
+    - Omen
+    - Obscurer
+    - Saviour
+    # -- Ships
+    - cormls # Pathfinder
+    - Phantasm
+    - corantiship # Oasis
 "4":
   description: Resurrection Units
   units:
@@ -94,7 +176,11 @@
     # ***************************
     - Lazarus # bot
     - Grim Reaper # sub
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - Graverobber # bot
+    - Death Cavalry # sub
 "5":
   description: AA (Fighters + Air Defense)
   units:
@@ -108,7 +194,16 @@
     # -----------------Defenses-----------------
     - Chainsaw
     - Mercury
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    # -----------------Aircraft-----------------
+    - Valiant
+    - corsfig # Bat
+    - Nighthawk
+    # -----------------Defenses-----------------
+    - Eradicator
+    - Screamer
 "6":
   description: Bombers
   units:
@@ -122,7 +217,13 @@
     - Cormorant
     - Stiletto
     - Liche
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - Whirlwind
+    - Dam Buster
+    - Hailstorm
+    - Angler
 "7":
   description: Land Factories
   units:
@@ -135,7 +236,15 @@
     - armavp # Advanced Vehicle Plant
     - armshltx # Experimental Gantry
     - armshltxuw # Experimental Gantry
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - corlab # Bot Lab
+    - corvp # Vehicle Plant
+    - coralab # Advanced Bot Lab
+    - coravp # Advanced Vehicle Plant
+    - corgant # Experimental Gantry
+    - corgantuw # Experimental Gantry
 "8":
   description: Sea Factories
   units:
@@ -147,7 +256,14 @@
     - armhp # Hovercraft Platform
     - armamsub # Amphibious Complex
     - armasy # Advanced Shipyard
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - corsy # Shipyard
+    - corfhp # Naval Hovercraft Platform
+    - corhp # Hovercraft Platform
+    - coramsub # Amphibious Complex
+    - corasy # Advanced Shipyard
 "9":
   description: (Long Range) Artilary Defense + Anti-Nuke System
   units:
@@ -159,9 +275,20 @@
     - Rattlesnake
     - Basilica
     - Ragnarok
+    - Paralyzer
     - Citadel
-
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - Agitator
+    - Devastator
+    - Persecutor
+    - Basilisk
+    - Calamity
+    - Catalyst
+    - Prevailer
 "0":
   description: Nuclear ICBM Launcher
   units:
     - Armageddon # Armada
+    - Apocalypse # Cortex
