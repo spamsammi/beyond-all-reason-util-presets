@@ -275,7 +275,6 @@
     - Rattlesnake
     - Basilica
     - Ragnarok
-    - Paralyzer
     - Citadel
     # ***************************
     # *      Cortex Units       *
@@ -285,10 +284,17 @@
     - Persecutor
     - Basilisk
     - Calamity
-    - Catalyst
     - Prevailer
 "0":
-  description: Nuclear ICBM Launcher
+  description: Long Range Tactical Missle + Nuclear ICBM Launcher
   units:
-    - Armageddon # Armada
+    # ***************************
+    # *      Armada Units       *
+    # ***************************
+    - Paralyzer
+    - Armageddon
+    # ***************************
+    # *      Cortex Units       *
+    # ***************************
+    - Catalyst
     - Apocalypse # Cortex
